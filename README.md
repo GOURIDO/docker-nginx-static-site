@@ -35,6 +35,6 @@ docker rmi docker-nginx-static-site  # Remove image
 Dependencies
 Docker: Make sure you have Docker installed on your machine. If not, you can get it from Docker's official website.
 
-You can paste this directly into your GitHub repository's `README.md` file. Let me know if you need any more edits!
+
 
 
