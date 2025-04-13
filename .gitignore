@@ -1,0 +1,9 @@
+# Ignore the .DS_Store file
+.DS_Store
+
+# Ignore any node_modules (if you add Node.js in the future)
+node_modules/
+
+# Ignore Docker-related files (optional)
+*.log
+*.pid
